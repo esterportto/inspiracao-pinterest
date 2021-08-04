@@ -1,5 +1,5 @@
 # Projeto de Inspiração
-Esse projeto teve como objetivo colocar em prática o conhecimento em HTML e CSS 
+Esse projeto teve como objetivo colocar em prática os conhecimentos em HTML e CSS 
 
 Projeto desenvolvido no CodePen
 
